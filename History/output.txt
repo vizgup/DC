@@ -1,0 +1,99 @@
+DB0277 (3-Chloro-4-Propoxy-Phenyl)-Acetic Aci
+DB0798 1-(4-IODOBENZOYL)-5-METHOXY-2-METHYL INDOLE-3-ACETIC ACI
+DB0798 2-[1-(4-CHLOROBENZOYL)-5-METHOXY-2-METHYL-1H-INDOL-3-YL]-N-[(1R)-1-(HYDROXYMETHYL)PROPYL]ACETAMID
+DB0798 2-[1-(4-CHLOROBENZOYL)-5-METHOXY-2-METHYL-1H-INDOL-3-YL]-N-[(1S)-1-(HYDROXYMETHYL)PROPYL]ACETAMID
+DB0219 2-Bromoacetyl Grou
+DB0673 Aceclofena
+DB0031 Acetaminophe
+DB0366 Acetic Acid Salicyloyl-Amino-Este
+DB0094 Acetylsalicylic aci
+DB0143 Antipyrin
+DB0141 Antrafenin
+DB0455 Arachidonic Aci
+DB0101 Balsalazid
+DB0237 Beta-D-Glucos
+DB0096 Bromfena
+DB0079 Candesarta
+DB0082 Carprofe
+DB0113 Carvedilo
+DB0067 Chlorpropamid
+DB0025 Dapson
+DB0003 Desmopressi
+DB0082 Diazepa
+DB0058 Diclofena
+DB0071 Diethylcarbamazin
+DB0086 Diflunisa
+DB0015 Dihomo-gamma-linolenic aci
+DB0107 Diphenhydramin
+DB0047 Dronabino
+DB0021 Eletripta
+DB0040 Eszopiclon
+DB0074 Etodola
+DB0077 Etoposid
+DB0057 Fenoprofe
+DB0226 Flufenamic Aci
+DB0071 Flurbiprofe
+DB0375 Flurbiprofen Methyl Este
+DB0135 Hexobarbita
+DB0032 Hydromorphon
+DB0189 Hyperfori
+DB0105 Ibuprofe
+DB0015 Icosapen
+DB0118 Ifosfamid
+DB0061 Imatini
+DB0032 Indomethaci
+DB0102 Irbesarta
+DB0122 Ketamin
+DB0673 Ketobemidon
+DB0100 Ketoprofe
+DB0046 Ketorola
+DB0672 Lornoxica
+DB0128 Lumiracoxi
+DB0139 Magnesium salicylat
+DB0093 Meclofenamic aci
+DB0078 Mefenamic aci
+DB0081 Meloxica
+DB0024 Mesalazin
+DB0481 Metamizol
+DB0035 Minoxidi
+DB0047 Montelukas
+DB0046 Nabumeton
+DB0078 Naproxe
+DB0073 Nateglinid
+DB0582 NCX 401
+DB0680 Nepafena
+DB0455 Niflumic Aci
+DB0054 Nortriptylin
+DB0183 O-acetyl-L-serin
+DB0099 Oxaprozi
+DB0375 P-(2'-Iodo-5'-Thenoyl)Hydrotropic Aci
+DB0378 Phenaceti
+DB0081 Phenylbutazon
+DB0113 Pioglitazon
+DB0055 Piroxica
+DB0211 Protoporphyrin Ix Containing C
+DB0270 Resveratro
+DB0053 Rofecoxi
+DB0041 Rosiglitazon
+DB0093 Salicylic aci
+DB0139 Salsalat
+DB0101 Sulfamethoxazol
+DB0079 Sulfasalazin
+DB0060 Sulinda
+DB0087 Suprofe
+DB0046 Tenoxica
+DB0085 Terbinafin
+DB0104 Thalidomid
+DB0160 Tiaprofenic aci
+DB0050 Tolmeti
+DB0021 Torasemid
+DB0510 Trabectedi
+DB0881 Triflusa
+DB0140 Trisalicylate-cholin
+DB0031 Valproic Aci
+DB0058 Voriconazol
+DB0054 Zafirlukas
+DB0673 Zaltoprofe
+DB0074 Zileuto
+DB0042 Zolpide
+DB0119 Zopiclon
